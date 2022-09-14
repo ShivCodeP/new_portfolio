@@ -71,7 +71,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "ShivCodeP",
   reposLength: 2,
-  specificRepos: [{link:"ShivCodeP/myportfolio",img:require("../assets/myportfolio.png")},{link:"ShivCodeP/suduko-solver",img:require("../assets/sudukosolver.png")},{link:"pummysh/YesStyle",img:require("../assets/yesstyle.png")},{link:"RajP62/Smallcase",img:require("../assets/smallcase.png")}]
+  specificRepos: [{link:"Ankit-Mishra07/chitchat.in",img:require("../assets/myportfolio.png")},{link:"ShivCodeP/suduko-solver",img:require("../assets/sudukosolver.png")},{link:"pummysh/YesStyle",img:require("../assets/yesstyle.png")},{link:"RajP62/Smallcase",img:require("../assets/smallcase.png")}]
 };
 
 // Leadership SECTION
